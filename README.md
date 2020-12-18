@@ -1,7 +1,7 @@
-# top10-recommendation-app
+# Top 5 videos in Different Genres in YouTube.
+
 Created with CodeSandbox
 
-Top 10 different social media recommendations: (including must watch, must follow etc.) 
-Fun App created for react practice
+Youtube has 5 different genres, and in this react app I updated top 5 watched videos in different genres.
 
-CHECK out the application from this link: https://top10recommendation.netlify.app/
+CHECK out the application from this link: https://youtubegenres.netlify.app/
