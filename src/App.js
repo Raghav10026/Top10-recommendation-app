@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles.css";
-const top10Database={
-  Youtube:[
+const youtubeGenres={
+  Music:[
     { name: "Baby Shark Dance", views: "9/10" },
     { name: "Despacito", views: "8.8/10" },
     { name: "Shape of You", views: "8.7/10" },
@@ -13,7 +13,7 @@ const top10Database={
     { name: "Learning Colors – Colorful Eggs on a Farm", views: "7.5/10" }
     { name: "Sorry", views: "7.5/10" }
   ],
-  Spoify Streams:[
+  Gaming:[
     { name: "Baby Shark Dance", views: "9/10" },
     { name: "Despacito", views: "8.8/10" },
     { name: "Shape of You", views: "8.7/10" },
@@ -25,7 +25,7 @@ const top10Database={
     { name: "Learning Colors – Colorful Eggs on a Farm", views: "7.5/10" }
     { name: "Sorry", views: "7.5/10" }
   ],
-  Youtube:[
+  News:[
     { name: "Baby Shark Dance", views: "9/10" },
     { name: "Despacito", views: "8.8/10" },
     { name: "Shape of You", views: "8.7/10" },
@@ -37,7 +37,19 @@ const top10Database={
     { name: "Learning Colors – Colorful Eggs on a Farm", views: "7.5/10" }
     { name: "Sorry", views: "7.5/10" }
   ],
-  Youtube:[
+  Films:[
+    { name: "Baby Shark Dance", views: "9/10" },
+    { name: "Despacito", views: "8.8/10" },
+    { name: "Shape of You", views: "8.7/10" },
+    { name: "See You Again", views: "8.6/10" },
+    { name: "Masha and the Bear", views: "8/10" },
+    { name: "Johny Johny Yes Papa", views: "7.8/10" },
+    { name: "Uptown Funk", views: "7.5/10" }
+    { name: "Gangnam Style", views: "7.5/10" }
+    { name: "Learning Colors – Colorful Eggs on a Farm", views: "7.5/10" }
+    { name: "Sorry", views: "7.5/10" }
+  ],
+  Fashion & Beauty:[
     { name: "Baby Shark Dance", views: "9/10" },
     { name: "Despacito", views: "8.8/10" },
     { name: "Shape of You", views: "8.7/10" },
