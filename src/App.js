@@ -57,13 +57,13 @@ export default function App() {
   return (
     <div className="App">
       <h2 className="head">
-        <b>Top 5 RECOMMENDATION FOR YOU</b>
+        <b>Youtube RECOMMENDATIONS FOR YOU</b>
       </h2>
       <hr />
       <div className="one">
-        <h4 style={{ color: "#164A41" }}>
+        <h4 style={{ color: "white" }}>
           <b> Check Top 5 Youtube videos in each Genre.</b>
-          <em>Select a genre to get started </em>
+          <em> Select a genre to check out the best videos. </em>
         </h4>
         <div>
           {youtube.map((item) => (

@@ -1,7 +1,7 @@
 {
-  "name": "youtube-genres",
+  "name": "top-5-youtube-genres",
   "version": "1.0.0",
-  "description": "react app ",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
